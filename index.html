@@ -3,11 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>三三三三三</title>
-    <meta content="user-scalable=no;" name="viewport"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi"/>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
 </head>
 
 <body>
-<div>
+<div class="container">
     <canvas id="kurumi" width="500" height="500" class="live2d"></canvas>
 </div>
 
@@ -15,10 +21,6 @@
 <script>
     loadkurumi("kurumi");
 </script>
-<style>
-    body {
-        text-align: center;
-    }
-</style>
+
 </body>
 </html>
