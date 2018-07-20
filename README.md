@@ -2,7 +2,7 @@
 
 是从 [约战手游官网](http://www.datealive.com/)扣下来的三三  
 并封装了一个 loadkurumi(id)的方法  
-演示 : [GithubPage](https://mikaguran.github.io/kurumi-web/)
+演示 : [GithubPage演示站点](https://mikaguran.github.io/kurumi-web/index.html)
 
 ## 用法
 1.引用js
