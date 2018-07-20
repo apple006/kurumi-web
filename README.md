@@ -13,7 +13,7 @@ ps : 觉得慢的话可以把仓库拉下来放本地
   
 2.创建canvas标签
 ```html
-<canvas id="kurumi" width="500" height="505" class="live2d"></canvas>
+<canvas id="kurumi" class="live2d"></canvas>
 ```
 3.初始化live2d
 ```html
